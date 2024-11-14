@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Daniel!
 
 **`Web Developer in Training | Aspiring Frontend Specialist`**
 
@@ -71,9 +71,9 @@ I’m committed to expanding my skills in these areas:
 
 I’m always open to meeting new people and working on exciting projects. Reach out and let’s build something amazing!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YourProfile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-lialin-a84a8a335)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourSite-orange?style=flat&logo=firefox)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-ContactMe-red?style=flat&logo=gmail)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ContactMe-red?style=flat&logo=gmail)](mailto:lialindaniel@gmail.com)
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
